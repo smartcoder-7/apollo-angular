@@ -24,7 +24,7 @@
     "@angular/router": "^6.1.8",
     "core-js": "^2.5.4",
     "graphql": "^0.13.2",
-    "graphql-code-generator": "^0.12.5",
+    "graphql-code-generator": "^0.18.2",
     "graphql-codegen-apollo-angular-template": "^0.12.5",
     "graphql-codegen-introspection-template": "^0.12.5",
     "rxjs": "^6.3.2",
